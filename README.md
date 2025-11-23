@@ -143,14 +143,6 @@ npx wrangler deploy
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethgan)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yt_hytj)
-
-</div>
-
-或者直接点击图标：
-
 <p align="center">
   <a href="https://www.youtube.com/@%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="40" height="40"/>
@@ -166,7 +158,5 @@ npx wrangler deploy
 </p>
 
 ---
-
-如果这个项目对你有帮助，请给个 ⭐️ 支持一下！
 
 如果这个项目对你有帮助，请给个 ⭐️ 支持一下！
